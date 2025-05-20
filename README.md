@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Brendan-Tang/Brendan-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I’m Brendan, an undergraduate student at the University of Toronto studying Economics and Statistics.
+# ⚡ About me:
+  Hi, I’m Brendan, an undergraduate student at the University of Toronto studying Economics and Statistics.
+<!--
+https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
+-->
+# 📫 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendan-tang/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brendan-Tang)
